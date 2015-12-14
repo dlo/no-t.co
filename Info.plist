@@ -7,7 +7,7 @@
 	<key>CFBundleDisplayName</key>
 	<string>no t.co</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.dloewenherz.tcoexpander</string>
+	<string>com.dloewenherz.notco</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleShortVersionString</key>
@@ -27,6 +27,8 @@
 		<array>
 			<string>http://*.twitter.com/*</string>
 			<string>https://*.twitter.com/*</string>
+			<string>http://twitter.com/*</string>
+			<string>https://twitter.com/*</string>
 		</array>
 	</dict>
 	<key>DeveloperIdentifier</key>
