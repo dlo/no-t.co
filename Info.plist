@@ -33,6 +33,8 @@
 			<string>https://twitter.com/*</string>
 		</array>
 	</dict>
+	<key>Description</key>
+	<string>Replace all t.co links with their original, expanded URLs.</string>
 	<key>DeveloperIdentifier</key>
 	<string>63553QQ62F</string>
 	<key>ExtensionInfoDictionaryVersion</key>
