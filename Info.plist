@@ -54,7 +54,7 @@
 		</dict>
 	</dict>
 	<key>Update Manifest URL</key>
-	<string>http://s3.amazonaws.com/dloewenherz-safari-extensions/manifest.plist</string>
+	<string>https://github.com/dlo/no-t.co/releases/download/1.0/no.t.co.safariextz</string>
 	<key>Website</key>
 	<string>http://dlo.me/</string>
 </dict>
