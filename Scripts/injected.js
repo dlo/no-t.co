@@ -15,7 +15,7 @@ function replaceLinks() {
     }
 }
 
-window.onload = function() {
+document.addEventListener("DOMContentLoaded", function(e) {
     replaceLinks();
 
     var target = document.querySelector(".stream-items");
@@ -27,5 +27,5 @@ window.onload = function() {
             characterData: false
         });
     }
-}
+});
 
