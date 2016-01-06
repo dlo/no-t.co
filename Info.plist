@@ -9,7 +9,7 @@
 	<key>CFBundleDisplayName</key>
 	<string>no t.co</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.dloewenherz.notco</string>
+	<string>com.dloewenherz.no-tco</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleShortVersionString</key>
@@ -51,6 +51,8 @@
 			<string>Some</string>
 		</dict>
 	</dict>
+	<key>Update Manifest URL</key>
+	<string>http://s3.amazonaws.com/dloewenherz-safari-extensions/manifest.plist</string>
 	<key>Website</key>
 	<string>http://dlo.me/</string>
 </dict>
