@@ -15,7 +15,13 @@ function replaceLinks() {
     }
 }
 
+var interval = setInterval(function() {
+    replaceLinks()
+}, 25)
+
 document.addEventListener("DOMContentLoaded", function(e) {
+    clearInterval(interval);
+
     replaceLinks();
 
     var target = document.querySelector(".stream-items");
